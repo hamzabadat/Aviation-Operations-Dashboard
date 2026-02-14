@@ -45,12 +45,6 @@ This interactive dashboard analyzes **5.8 million flight records** from 2015 U.S
 
 ---
 
-## 🚀 Live Demo
-
-[Add your Streamlit Cloud deployment link here once deployed]
-
----
-
 ## 📦 Installation & Setup
 
 ### Prerequisites
