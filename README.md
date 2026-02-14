@@ -92,7 +92,7 @@ aviation-dashboard/
 ├── airlines.csv              # Airline code lookup table
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
-└── screenshots/              # Dashboard screenshots (optional)
+
 ```
 
 ---
@@ -127,22 +127,6 @@ aviation-dashboard/
 - Delay causes (weather, air system, security, airline, late aircraft)
 - Flight details (distance, air time, taxi times)
 - Cancellation data and reasons
-
----
-
-## 🎨 Dashboard Highlights
-
-### Flight Operations Timeline
-![Timeline Screenshot](screenshots/timeline.png)
-*Air Gantt style visualization showing all departures from selected airport*
-
-### Analytics Dashboard
-![Analytics Screenshot](screenshots/analytics.png)
-*Comprehensive delay analysis with multiple visualizations*
-
-### Root Cause Analysis
-![Root Cause Screenshot](screenshots/root-cause.png)
-*Deep dive into delay patterns and problem airports*
 
 ---
 
@@ -229,10 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Hamza Badat**
 
 ---
 
@@ -242,15 +223,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Dataset:** Kaggle - Flight Delays and Cancellations (2015)
 - **Inspiration:** Real-world aviation operations tools and Air Gantt charts
 - **Built with:** Python, Streamlit, Plotly, and Pandas communities
-
----
-
-## 📧 Contact
-
-For questions, suggestions, or opportunities:
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
